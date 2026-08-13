@@ -1,0 +1,25 @@
+{
+  "paths": [
+    {
+      "rel": "bin/fastfetch.py",
+      "type": "file",
+      "existed": true
+    },
+    {
+      "rel": "ver/fastfetch.json",
+      "type": "missing",
+      "existed": false
+    },
+    {
+      "rel": "ver/fastfetch.txt",
+      "type": "missing",
+      "existed": false
+    },
+    {
+      "rel": "apps/fastfetch",
+      "type": "missing",
+      "existed": false
+    }
+  ],
+  "created": "20260813_150327"
+}

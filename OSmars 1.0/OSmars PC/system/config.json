@@ -1,0 +1,9 @@
+{
+  "theme": "dark",
+  "auto_save": true,
+  "max_history": 100,
+  "show_colors": true,
+  "f11_exit_enabled": true,
+  "start_gui_fullscreen": true,
+  "auto_sync_after_install": true
+}

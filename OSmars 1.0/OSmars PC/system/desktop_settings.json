@@ -1,0 +1,39 @@
+{
+  "icon_positions": {
+    "This PC": {
+      "x": 16,
+      "y": 16
+    },
+    "Browser": {
+      "x": 16,
+      "y": 126
+    },
+    "Terminal": {
+      "x": 16,
+      "y": 236
+    },
+    "Notepad": {
+      "x": 16,
+      "y": 346
+    },
+    "Calculator": {
+      "x": 16,
+      "y": 456
+    },
+    "Downloads": {
+      "x": 16,
+      "y": 566
+    },
+    "Hello Mars": {
+      "x": 16,
+      "y": 676
+    },
+    "Click Rush": {
+      "x": 16,
+      "y": 786
+    }
+  },
+  "wallpaper": null,
+  "theme_mode": "dark",
+  "accent_color": "#3b82f6"
+}

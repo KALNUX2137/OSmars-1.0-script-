@@ -1,0 +1,25 @@
+{
+  "paths": [
+    {
+      "rel": "@host/OSmars_recovery.py",
+      "type": "file",
+      "existed": true
+    },
+    {
+      "rel": "ver/recovery.json",
+      "type": "missing",
+      "existed": false
+    },
+    {
+      "rel": "ver/recovery.txt",
+      "type": "file",
+      "existed": true
+    },
+    {
+      "rel": "apps/recovery",
+      "type": "missing",
+      "existed": false
+    }
+  ],
+  "created": "20260813_153259"
+}

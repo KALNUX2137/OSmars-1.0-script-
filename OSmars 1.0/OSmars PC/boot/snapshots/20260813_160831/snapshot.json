@@ -1,0 +1,25 @@
+{
+  "paths": [
+    {
+      "rel": "apps/clickrush",
+      "type": "missing",
+      "existed": false
+    },
+    {
+      "rel": "bin/clickrush.py",
+      "type": "missing",
+      "existed": false
+    },
+    {
+      "rel": "ver/clickrush.txt",
+      "type": "file",
+      "existed": true
+    },
+    {
+      "rel": "apps",
+      "type": "dir",
+      "existed": true
+    }
+  ],
+  "created": "20260813_160831"
+}

@@ -1,0 +1,12 @@
+{
+  "format": "mars",
+  "format_version": 1,
+  "id": "hello",
+  "name": "Hello Mars",
+  "version": "1.0.0",
+  "description": "Przykładowa paczka .mars",
+  "icon": "icon.png",
+  "entry": "main.py",
+  "type": "app",
+  "created": "2026-08-12T17:26:53Z"
+}

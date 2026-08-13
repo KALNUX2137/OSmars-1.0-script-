@@ -1,0 +1,79 @@
+ls
+help
+bootsys
+exi5t
+exit
+help
+exit
+TSM
+tsm
+exit
+help
+status
+exir
+exit
+help
+cd OSmOSmars PC
+cd OSmars PC
+ls
+cd boot
+cd desktop
+ls
+nano gui1.py
+lsblk
+help
+exit
+nano
+help
+from mars install hello
+exit
+marsinstall hello
+exi
+exit
+marsinstall hello
+help
+uname -a
+whoami
+id
+hostname
+exit
+help
+marsinstall hello
+help
+sync
+exit
+help
+marsinstall hello
+sync
+from mars install fastfetch
+from mars install fastfetch-patch
+bootsys
+help
+fastfetch
+pacman -S gowno
+exit
+marsinstall fastfetch-patch
+sudo from mars install clickrush
+marsinstall clickrush
+bootsys
+exit
+from mars install fastfetch
+symc
+sync
+rollback
+from mars install fastfetch
+sync
+from mars install OSmars recovery
+bootsys
+from mars install click Rush
+marsinstall Click Rush
+marsinstall clickrush
+bootsys
+help
+bootsys
+help
+from mars install Kocmos
+marsinstall kocmos
+sync
+bootsys
+exit

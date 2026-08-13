@@ -1,0 +1,12 @@
+{
+  "format": "mars",
+  "format_version": 1,
+  "id": "clickrush",
+  "name": "Click Rush",
+  "version": "1.0",
+  "description": "Mini-gra klikacz na pulpit OSmars",
+  "icon": "icon.png",
+  "entry": "main.py",
+  "type": "app",
+  "created": "2026-08-13T12:26:01Z"
+}
